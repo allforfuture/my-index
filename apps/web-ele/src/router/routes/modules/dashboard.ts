@@ -19,7 +19,6 @@ const routes: RouteRecordRaw[] = [
         path: '/analytics',
         component: () => import('#/views/dashboard/analytics/index.vue'),
         meta: {
-          affixTab: true,
           icon: 'lucide:area-chart',
           title: $t('page.dashboard.analytics'),
         },

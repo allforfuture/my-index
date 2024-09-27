@@ -5,13 +5,20 @@ import { initStores } from '@vben/stores';
 import '@vben/styles';
 import '@vben/styles/ele';
 
-import { setupI18n } from '#/locales';
+import ElementPlus from 'element-plus';
 
+import { setupI18n } from '#/locales';
+// 引入Element Plus的CSS
 import App from './app.vue';
 import { router } from './router';
 
+import 'element-plus/dist/index.css';
+
 async function bootstrap(namespace: string) {
   const app = createApp(App);
+
+  // 安装Element Plus
+  app.use(ElementPlus);
 
   // 国际化 i18n 配置
   await setupI18n(app);

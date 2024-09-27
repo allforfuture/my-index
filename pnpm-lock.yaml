@@ -24,6 +24,9 @@ catalogs:
     '@commitlint/config-conventional':
       specifier: ^19.5.0
       version: 19.5.0
+    '@element-plus/icons-vue':
+      specifier: ^2.3.1
+      version: 2.3.1
     '@eslint/js':
       specifier: ^9.11.1
       version: 9.11.1
@@ -669,6 +672,9 @@ importers:
 
   apps/web-ele:
     dependencies:
+      '@element-plus/icons-vue':
+        specifier: 'catalog:'
+        version: 2.3.1(vue@3.5.8(typescript@5.6.2))
       '@vben/access':
         specifier: workspace:*
         version: link:../../packages/effects/access

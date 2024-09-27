@@ -1,0 +1,20 @@
+<template>
+  <div>
+    <img
+      alt="加法口诀"
+      src="https://p3-pc-sign.douyinpic.com/tos-cn-i-0813/oQUxICw2FnAIGxApAgeEA9kAGATgbCb2QZbf0D~tplv-dy-aweme-images:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_AWEME_DETAIL&sc=image&se=false&x-expires=1730019600&x-signature=upCZ75pBfDz8Dc4F5K4r22NHKuI%3D"
+    />
+    <img
+      alt="减法口诀"
+      src="https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/owhXsAeAEAAtEIDaAyAgY5bpCCfYtDbzQBki5C~tplv-dy-aweme-images:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_AWEME_DETAIL&sc=image&se=false&x-expires=1730019600&x-signature=uJ4aWRWZbAnulleiXVjf%2BI2VLIw%3D"
+    />
+    <img
+      alt="乘法口诀"
+      src="https://p9-pc-sign.douyinpic.com/tos-cn-i-0813c001/oQ2A0CDgIknA9fgbx2ATep0AbECAGkQAGZIFx5~tplv-dy-aweme-images:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_AWEME_DETAIL&sc=image&se=false&x-expires=1730019600&x-signature=x97FCM%2FApQcM5WEGQQaqgCoMBUU%3D"
+    />
+    <img
+      alt="除法口诀"
+      src="https://p9-pc-sign.douyinpic.com/tos-cn-i-0813/ooEaIAAAeDsbAXzybfDwtt9Y7YCAihAgCpQECv~tplv-dy-aweme-images:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_AWEME_DETAIL&sc=image&se=false&x-expires=1730019600&x-signature=9U5iDiPnDSgqCKCfJ6MD3L4jAsg%3D"
+    />
+  </div>
+</template>
